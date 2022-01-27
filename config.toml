@@ -15,11 +15,11 @@ theme = "raditian-free-hugo-theme"
 
   # JS Plugins
   [[params.plugins.js]]
-  URL = "js/rad-animations.js"
+  URL = "//js/rad-animations.js"
   [[params.plugins.js]]
-  URL = "js/sticky-header.js"
+  URL = "//js/sticky-header.js"
   [[params.plugins.js]]
-  URL = "js/library/fontfaceobserver.js"
+  URL = "//js/library/fontfaceobserver.js"
 
 # navigation
 [menu]
