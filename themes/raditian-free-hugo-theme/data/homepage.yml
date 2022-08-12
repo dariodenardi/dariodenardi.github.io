@@ -95,19 +95,23 @@ experience:
 #    URL: "#"
 
   items:
-    - title: "Powertrain Division Member"
+    - title: "Curricular internship"
+      company: "CVLab - Bologna (IT)"
+      duration: "Set 2022 - Current"
+
+    - title: "Powertrain & Marketing Division Member"
       company: "UniBo.A.T. - Bologna (IT)"
       duration: "Nov 2021 - Current"
 
     - title: "Teaching Tutor"
       company: "University of Bologna - Bologna (IT)"
-      duration: "Feb 2021 - Current"
+      duration: "Feb 2021 - Set 2022"
 
     - title: "External Collaborator"
       company: "ICEA Certifies - Bologna (IT)"
       duration: "Nov 2020 - Feb 2021"
 
-    - title: "Bachelor thesis intern"
+    - title: "Curricular internship"
       company: "Nomisma - Bologna (IT)"
       duration: "Jan 2019 - Mar 2019"
 
