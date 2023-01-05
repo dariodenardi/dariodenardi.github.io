@@ -55,4 +55,4 @@ theme = "raditian-free-hugo-theme"
     text2 = "De Nardi"
 
   [params.footer]
-      copyright = "Copyright © Dario De Nardi 2022"
+      copyright = "Copyright © Dario De Nardi 2022-2023"

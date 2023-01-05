@@ -34,8 +34,8 @@ showcase:
     #- icon: "youtube"
     #  URL: "https://www.youtube.com/channel/UCojEc6SPO-W1_CoeHhK9-Zw"
 
-    #- icon: "instagram"
-    #  URL: "https://www.instagram.com/teamradity/"
+    - icon: "instagram"
+      URL: "https://www.instagram.com/dario.denardi/"
 
     #- icon: "facebook"
     #  URL: "https://www.facebook.com/raditycom/"
@@ -51,13 +51,13 @@ about:
   enable: true
   title: "Who am I?"
   content: '<p class="lead">
-    I am an Italian computer engineering student, passionate about technology.
+    I am an Italian computer engineering student, passionate about technology and motorsport world.
     </p>
     <p class="lead">
     I am a very dynamic person, motivated and ready to learn. The strong interest in computer science encourages me to always get involved. In fact, I practice a lot of physical activity and this has allowed me to never back down and to always accept new challenges, whatever they may be.
     </p>
     <p class="lead">
-    I prefer software but hardware also fascinates me. If next to me there is an electronic device and a screwdriver I can''t use it, especially if I discover that it isn''t working properly!
+    I prefer both software and hardware. If next to me there is an electronic device and a screwdriver I can''t use it, especially if I discover that it isn''t working properly!
     </p>'
   button:
     icon: "icon-linkedin-fill"
@@ -84,7 +84,7 @@ education:
 experience:
   enable: true
   title: "Experience"
-  description: "My studies have been focused on distributed systems, database and artificial intelligence."
+  description: "My studies have been focused on cloud and artificial intelligence. Thanks to UniBoAT for introducing me to the motorsport world"
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
