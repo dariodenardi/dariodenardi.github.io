@@ -84,7 +84,7 @@ education:
 experience:
   enable: true
   title: "Experience"
-  description: "My studies have been focused on cloud and artificial intelligence. Thanks to UniBoAT for introducing me to the motorsport world"
+  description: "My studies have been focused on cloud and artificial intelligence. Thanks to UniBoAT for introducing me to the motorsport world."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
