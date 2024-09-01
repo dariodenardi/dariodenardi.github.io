@@ -152,6 +152,17 @@ client_and_work:
 #      alt: "Ztos"
 
   works:
+    - title: "E-Mobility Project"
+      description: "A research and development project for students passionate about technological innovation and high-performance navigation, promoting clean seas and supporting the transition to electric propulsion. Photo by Studio Borlenghi."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "View on WebSite"
+        URL: "https://site.unibo.it/uniboat/en"
+      image:
+        x: "img/works/uniboat.jpg"
+        _2x: "img/works/uniboat@2x.jpg"
+      is_even: true
+
     - title: "Tab Writer Project"
       description: "Automatic transcription of guitar tablature through the use of convolutional neural networks (CNN) so that even those unable to play this instrument can do so. Everything has been implemented through the app (Android / iOS). Photo by WallpaperTip."
       button:
@@ -174,13 +185,13 @@ client_and_work:
         _2x: "img/works/ddr@2x.jpg"
       is_even: false
 
-    - title: "RiverWatch Project"
-      description: "RiverWatch aims to develop a new disruptive monitoring infrastructure for river systems focused on the transport of buoyant plastics, woody material, and floating pollution. Photo by "Sarno, il dio offeso"."
+    - title: "River Watch Project"
+      description: "RiverWatch aims to develop a new disruptive monitoring infrastructure for river systems focused on the transport of buoyant plastics, woody material, and floating pollution. Photo by book 'Sarno, il dio offeso'."
       button:
         icon: "icon-arrow-right"
         btnText: "View on WebSite"
         URL: "https://sites.google.com/view/riverwatch"
       image:
-        x: "img/works/sarno"
+        x: "img/works/sarno.jpg"
         _2x: "img/works/sarno@2x.jpg"
       is_even: false
