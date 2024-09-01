@@ -51,7 +51,7 @@ about:
   enable: true
   title: "Who am I?"
   content: '<p class="lead">
-    I am an Italian computer engineering, passionate about technology and sustainable mobility.
+    I am an Italian computer engineering, passionate about technology and sustainable topics.
     </p>
     <p class="lead">
     I am a very dynamic person, motivated and ready to learn. The strong interest in computer science encourages me to always get involved. In fact, I practice a lot of physical activity and this has allowed me to never back down and to always accept new challenges, whatever they may be.
@@ -84,7 +84,7 @@ education:
 experience:
   enable: true
   title: "Experience"
-  description: "My studies have been focused on cloud and artificial intelligence. I have three years of experience in vehicle electrification and sustainability topics. Nowadays, these are crucial themes for the future because the goal is to achieve zero emissions."
+  description: "My studies have been focused on cloud computing and artificial intelligence. I have also accumulated experience in sustainable mobility, including three years in vehicle electrification. Nowadays, these are crucial topics for the future as the goal is to achieve zero emissions. Additionally, I have spent a year and a half working on autonomous driving, implementing ADAS on a vehicle prototype."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
@@ -98,10 +98,6 @@ experience:
     - title: "Research Fellow"
       company: "CVLab - Bologna (IT)"
       duration: "Feb 2024 - Current"
-
-    - title: "Postgraduate Scholarship"
-      company: "CVLab - Bologna (IT)"
-      duration: "Set 2023 - Feb 2024"
 
     - title: "Curricular internship"
       company: "CVLab - Bologna (IT)"
@@ -172,10 +168,10 @@ client_and_work:
       image:
         x: "img/works/tab-writer.jpg"
         _2x: "img/works/tab-writer@2x.jpg"
-      is_even: true
+      is_even: false
 
     - title: "Tea Room Project"
-      description: "Use of differential drive robots (DDR) for the development of IoT applications: the manager of a tearoom intends to regulate the access to the service by means of a DDR robot. Clients communicate through the Web App. Photo by CodeTheFuture."
+      description: "Use of differential drive robots (DDR) for the development of IoT applications: the manager of a tea room intends to regulate the access to the service by means of a DDR robot. Clients communicate through the Web App. Photo by CodeTheFuture."
       button:
         icon: "icon-arrow-right"
         btnText: "View on GitHub"
@@ -183,10 +179,10 @@ client_and_work:
       image:
         x: "img/works/ddr.jpg"
         _2x: "img/works/ddr@2x.jpg"
-      is_even: false
+      is_even: true
 
     - title: "River Watch Project"
-      description: "RiverWatch aims to develop a new disruptive monitoring infrastructure for river systems focused on the transport of buoyant plastics, woody material, and floating pollution. Photo by book 'Sarno, il dio offeso'."
+      description: "This project aims to develop a new disruptive monitoring infrastructure for river systems focused on the transport of buoyant plastics, woody material, and floating pollution. Photo by book 'Sarno, il dio offeso'."
       button:
         icon: "icon-arrow-right"
         btnText: "View on WebSite"
