@@ -2,7 +2,7 @@
 showcase:
   enable: true
   title: "Ciao, I’m Dario!"
-  subtitle: "M.Sc. student in computer engineering"
+  subtitle: "M.Sc. in Computer Engineering"
 #  description: "I work at <a target='_blank' href='https://radity.com/'>Radity</a>, a software development company in Switzerland. And I am a Raditian. You get the idea where theme name comes from. Keep cool, stay in touch. You can download this theme from <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
   image:
     x: "img/showcase/showcase.png"
@@ -34,8 +34,8 @@ showcase:
     #- icon: "youtube"
     #  URL: "https://www.youtube.com/channel/UCojEc6SPO-W1_CoeHhK9-Zw"
 
-    - icon: "instagram"
-      URL: "https://www.instagram.com/dario.denardi/"
+    #- icon: "instagram"
+    #  URL: "https://www.instagram.com/dario.denardi/"
 
     #- icon: "facebook"
     #  URL: "https://www.facebook.com/raditycom/"
@@ -51,7 +51,7 @@ about:
   enable: true
   title: "Who am I?"
   content: '<p class="lead">
-    I am an Italian computer engineering student, passionate about technology and motorsport world.
+    I am an Italian computer engineering, passionate about technology and sustainable mobility.
     </p>
     <p class="lead">
     I am a very dynamic person, motivated and ready to learn. The strong interest in computer science encourages me to always get involved. In fact, I practice a lot of physical activity and this has allowed me to never back down and to always accept new challenges, whatever they may be.
@@ -73,7 +73,7 @@ education:
   title: "Education"
   items:
     - university: "Alma Mater Studiorum Università di Bologna"
-      year: "2020-Current"
+      year: "2020-2023"
       degree: "Master of Science (MSc), Computer Engineering"
 
     - university: "Alma Mater Studiorum Università di Bologna"
@@ -84,7 +84,7 @@ education:
 experience:
   enable: true
   title: "Experience"
-  description: "My studies have been focused on cloud and artificial intelligence. Thanks to UniBoAT for introducing me to the motorsport world."
+  description: "My studies have been focused on cloud and artificial intelligence. I have three years of experience in vehicle electrification and sustainability topics. Nowadays, these are crucial themes for the future because the goal is to achieve zero emissions."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
@@ -95,21 +95,21 @@ experience:
 #    URL: "#"
 
   items:
+    - title: "Research Fellow"
+      company: "CVLab - Bologna (IT)"
+      duration: "Feb 2024 - Current"
+
+    - title: "Postgraduate Scholarship"
+      company: "CVLab - Bologna (IT)"
+      duration: "Set 2023 - Feb 2024"
+
     - title: "Curricular internship"
       company: "CVLab - Bologna (IT)"
-      duration: "Set 2022 - Current"
+      duration: "Set 2022 - Jul 2023"
 
-    - title: "Powertrain & Marketing Division Member"
+    - title: "Powertrain Engineer"
       company: "UniBo.A.T. - Bologna (IT)"
-      duration: "Nov 2021 - Current"
-
-    - title: "Teaching Tutor"
-      company: "University of Bologna - Bologna (IT)"
-      duration: "Feb 2021 - Set 2022"
-
-    - title: "External Collaborator"
-      company: "ICEA Certifies - Bologna (IT)"
-      duration: "Nov 2020 - Feb 2021"
+      duration: "Nov 2021 - Jul 2024"
 
     - title: "Curricular internship"
       company: "Nomisma - Bologna (IT)"
@@ -153,7 +153,7 @@ client_and_work:
 
   works:
     - title: "Tab Writer Project"
-      description: "Automatic transcription of guitar tablature through the use of convolutional neural networks (CNN) so that even those unable to play this instrument can do so. Everything works with the help of a simple smartphone (Android / iOS). Photo by WallpaperTip."
+      description: "Automatic transcription of guitar tablature through the use of convolutional neural networks (CNN) so that even those unable to play this instrument can do so. Everything has been implemented through the app (Android / iOS). Photo by WallpaperTip."
       button:
         icon: "icon-arrow-right"
         btnText: "View on GitHub"
@@ -163,8 +163,8 @@ client_and_work:
         _2x: "img/works/tab-writer@2x.jpg"
       is_even: true
 
-    - title: "TeaRoom Project"
-      description: "Use of a differential drive robots (DDR) for the development of a real application case: the manager of a tearoom intends to regulate the access to the service by means of a DDR robot. Everything works through a Web App. Photo by CodeTheFuture."
+    - title: "Tea Room Project"
+      description: "Use of differential drive robots (DDR) for the development of IoT applications: the manager of a tearoom intends to regulate the access to the service by means of a DDR robot. Clients communicate through the Web App. Photo by CodeTheFuture."
       button:
         icon: "icon-arrow-right"
         btnText: "View on GitHub"
@@ -174,13 +174,13 @@ client_and_work:
         _2x: "img/works/ddr@2x.jpg"
       is_even: false
 
-    - title: "eFootball Project"
-      description: "Tool that edits database of the new game released by KONAMI. You can change players, teams, coaches, balls, gloves and much more. Photo by KONAMI Entertainment."
+    - title: "RiverWatch Project"
+      description: "RiverWatch aims to develop a new disruptive monitoring infrastructure for river systems focused on the transport of buoyant plastics, woody material, and floating pollution. Photo by "Sarno, il dio offeso"."
       button:
         icon: "icon-arrow-right"
-        btnText: "View on GitHub"
-        URL: "https://github.com/dariodenardi/eFootball2022-Project"
+        btnText: "View on WebSite"
+        URL: "https://sites.google.com/view/riverwatch"
       image:
-        x: "img/works/eFootball.jpg"
-        _2x: "img/works/eFootball@2x.jpg"
-      is_even: true
+        x: "img/works/sarno"
+        _2x: "img/works/sarno@2x.jpg"
+      is_even: false
